@@ -15,9 +15,9 @@
   
 	<ThingDef ParentName="BuildingBase">
 		<defName>HollyWasher</defName>
-		<label>Washing Machine</label>
+		<label>washing machine</label>
 		<thingClass>Building_WorkTable</thingClass>
-		<description>The good old washing machine "Halinka 2000" removes a worn by corpse effect from Apparel.</description>
+		<description>A good old washing machine, model "Halinka 2000". Removes the "worn by corpse" effect from apparel.</description>
 		<graphicData>
 			<texPath>Things/HolyWasher/Building/washer</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
@@ -83,9 +83,9 @@
 	
 	<ThingDef ParentName="BuildingBase">
 		<defName>HolyBasin</defName>
-		<label>Metal Basin</label>
+		<label>metal basin</label>
 		<thingClass>Building_WorkTable</thingClass>
-		<description>Old metal basin where you wash your clothes to remove a worn by corpse effect from Apparel.</description>
+		<description>An old metal basin for washing clothes. Removes the "worn by corpse" effect from apparel.</description>
 		<graphicData>
 			<texPath>Things/HolyWasher/Building/basin/basin</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
