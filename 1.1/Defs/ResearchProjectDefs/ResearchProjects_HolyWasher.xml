@@ -5,7 +5,7 @@
 <ResearchProjectDef>
     <defName>BasicWashing</defName>
     <label>basic washing</label>
-    <description>Advanced construction techniques allow for production of the metal basin to wash clothes</description>
+    <description>Advanced construction techniques allow for production of metal basins for washing clothes.</description>
     <baseCost>250</baseCost>
     <techLevel>Neolithic</techLevel>
     <tags>
@@ -19,7 +19,7 @@
   <ResearchProjectDef>
 		<defName>AdvancedWashing</defName>
 		<label>advanced washing</label>
-		<description>Learn secrets of old washing machines and construct your own one.</description>
+		<description>Learn the secrets of old washing machines and construct your own.</description>
 		<baseCost>400</baseCost>
 		<techLevel>Industrial</techLevel>
 		<prerequisites>
